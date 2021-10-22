@@ -6,10 +6,12 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="practica-calificada-1-ivhyarleth" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="pc1" target="1.7" />
+      <module name="practica-calificada-1-ivhyarleth" target="1.7" />
     </bytecodeTargetLevel>
   </component>
 </project>
