@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/pc1/pc1.iml" filepath="$PROJECT_DIR$/pc1/pc1.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/practica-calificada-1-ivhyarleth.iml" filepath="$PROJECT_DIR$/.idea/practica-calificada-1-ivhyarleth.iml" />
     </modules>
   </component>
